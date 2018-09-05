@@ -1,4 +1,9 @@
+# Pandas
+HW-wk4
 
+This assignment used Python, Jupyter Notebook, and the Pandas library to analyze user data for a ficticious video game company. I reviewed data of in-game purchases made by players then aggregated and analyzed it to view trends in the purchasing behavior of players. 
+
+Key findings are noted at the end
 
 ```python
 import pandas as pd
